@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.7.2 on win32)" generated="20200813 18:41:29.915">
+<suite id="s1" name="ForLoop" source="C:\Users\suraj_kumar\PycharmProjects\RobotFrameWork\TestCases\ForLoop.robot">
+<test id="s1-t1" name="Print Numbers">
+<kw name="${i} IN [ 12 ]" type="for">
+<msg timestamp="20200813 18:41:29.966" level="FAIL">FOR loop contains no keywords.</msg>
+<status status="FAIL" starttime="20200813 18:41:29.966" endtime="20200813 18:41:29.966"></status>
+</kw>
+<status status="FAIL" starttime="20200813 18:41:29.965" endtime="20200813 18:41:29.966" critical="yes">FOR loop contains no keywords.</status>
+</test>
+<status status="FAIL" starttime="20200813 18:41:29.935" endtime="20200813 18:41:29.968"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="ForLoop">ForLoop</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
